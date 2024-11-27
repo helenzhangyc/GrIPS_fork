@@ -1,3 +1,5 @@
+openai_key.txt
+
 # Build and Release Folders
 bin-debug/
 bin-release/
@@ -6,6 +8,7 @@ bin-release/
 
 # Other files and folders
 .settings/
+
 
 # Executables
 *.swf
