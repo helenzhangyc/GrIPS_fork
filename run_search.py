@@ -49,9 +49,12 @@ mode = args.mode
 seed = args.seed
 train_seed = args.train_seed
 
-classification_task_ids = ['019', '021', '022', '050', '069', '137', '139','195']
+classification_task_ids = ['000']
+
 data_base_path = "data/ExpandedNaturalInstructions/" #location of the Natural Instructions dataset
 file_map = {f.split("_")[0]:f for f in os.listdir(data_base_path)}
+file_map['task000'] = 'converted_data.json'
+
 assert args.task_idx >= 0 and args.task_idx < len(classification_task_ids), "Invalid task index entered."
 chosen_task = classification_task_ids[args.task_idx] 
 chosen_task_name = file_map['task' + chosen_task]
