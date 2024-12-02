@@ -10,7 +10,6 @@ task_definition = "You are an expert in identifying potentially unfair clauses i
 
 # Separate Positive and Negative Examples
 positive_examples = []
-negative_examples = []
 
 for _, row in df.iterrows():
     example = {
@@ -19,14 +18,11 @@ for _, row in df.iterrows():
     }
     if row["label"] == 1:
         positive_examples.append(example)
-    elif row["label"] == 0:
-        negative_examples.append(example)
 
 # Create the JSON structure
 task_data = {
     "Definition": task_definition,
     "Positive Examples": positive_examples,
-    "Negative Examples": negative_examples,
     "Instances": []  # Keeping this empty as per GrIPS requirements for now
 }
 
