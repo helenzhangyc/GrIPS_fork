@@ -182,7 +182,7 @@ def complete_gpt2(prompt, l=10, model_name='gpt2-xl', num_log_probs=None, echo=F
     del total_sequences
     return return_json
 
-def complete(prompt, l, model_name='babbage-instruct-beta', temp=0, num_log_probs=None, echo=False, n=None): 
+def complete(prompt, l, model_name='text-davinci-003', temp=0, num_log_probs=None, echo=False, n=None): 
     """complete the prompt using a language model. Change default model name to run different engines on the OpenAI API."""
     assert l >= 0
     assert temp >= 0

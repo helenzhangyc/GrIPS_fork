@@ -14,7 +14,7 @@ positive_examples = []
 for _, row in df.iterrows():
     example = {
         "input": row["text"],  # Assuming "text" contains the input
-        "output": [str(row["label"])]  # Convert label to string
+        "output": str(row["label"])  # Convert label to string
     }
     if row["label"] == 1:
         positive_examples.append(example)

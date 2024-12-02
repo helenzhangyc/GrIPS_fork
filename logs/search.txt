@@ -1,0 +1,1 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only, followed by a brief reason if 'Yes' . Is the following sentence a potentially unfair clause?
