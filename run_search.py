@@ -237,23 +237,73 @@ def custom_instruction_prompt(mode=mode, task_name=chosen_task_name, num_shots=n
 
     else: raise ValueError()
 
-def score(candidate, split='train', write=False):
+# def score(candidate, split='train', write=False):
     
-    label_probs, calibrated_label_probs , raw_acc_count , raw_cal_acc_count , answer_list, index_list, _ = run(mode=mode, batch_size=batch_size, num_shots=num_shots, chosen_task_name=chosen_task_name, num_samples=num_samples, seed=seed, override_prompts=True, function = custom_instruction_prompt, split=split, modified={'Definition': candidate}, task_labels=task_labels, if_calibrate = False)
+#     label_probs, calibrated_label_probs , raw_acc_count , raw_cal_acc_count , answer_list, index_list, _ = run(mode=mode, batch_size=batch_size, num_shots=num_shots, chosen_task_name=chosen_task_name, num_samples=num_samples, seed=seed, override_prompts=True, function = custom_instruction_prompt, split=split, modified={'Definition': candidate}, task_labels=task_labels, if_calibrate = False)
+#     preds = get_prediction(label_probs, task_labels)
+#     raw_acc = balanced_accuracy_score(answer_list, preds)
+#     label_frequencies = [preds.count(l)/len(preds) for l in task_labels]
+#     if split == 'train': return np.round(100*raw_acc, 2) + 10*entropy(label_frequencies)
+#     elif split== 'test': 
+#         if write:
+#             pname = args.meta_name
+#             pname = pname.split('.')[0] + "_predictions.json"
+#             pred_dump = {'predictions': preds, 'answers': answer_list, 'ids':index_list}
+#             ppath = os.path.join(args.meta_dir, pname)
+#             pfile = open(ppath, 'w+')
+#             json.dump(pred_dump, pfile)
+#         return np.round(100*raw_acc_count/len(answer_list), 2)
+#     else: return
+
+def score(candidate, split='train', write=False):
+    # Run the main evaluation function
+    label_probs, calibrated_label_probs, raw_acc_count, raw_cal_acc_count, answer_list, index_list, _ = run(
+        mode=mode,
+        batch_size=batch_size,
+        num_shots=num_shots,
+        chosen_task_name=chosen_task_name,
+        num_samples=num_samples,
+        seed=seed,
+        override_prompts=True,
+        function=custom_instruction_prompt,
+        split=split,
+        modified={'Definition': candidate},
+        task_labels=task_labels,
+        if_calibrate=False
+    )
+    
+    # Generate predictions
     preds = get_prediction(label_probs, task_labels)
+    
+    # Ensure lengths of predictions and ground truth match
+    if len(answer_list) != len(preds):
+        print(f"Length mismatch: {len(answer_list)} (answers) vs {len(preds)} (predictions)")
+        print("Truncating to the smallest length...")
+        min_length = min(len(answer_list), len(preds))
+        answer_list = answer_list[:min_length]
+        preds = preds[:min_length]
+    
+    # Calculate raw accuracy
     raw_acc = balanced_accuracy_score(answer_list, preds)
-    label_frequencies = [preds.count(l)/len(preds) for l in task_labels]
-    if split == 'train': return np.round(100*raw_acc, 2) + 10*entropy(label_frequencies)
-    elif split== 'test': 
+    
+    # Calculate label frequencies for diversity measure
+    label_frequencies = [preds.count(l) / len(preds) for l in task_labels]
+    
+    if split == 'train':
+        return np.round(100 * raw_acc, 2) + 10 * entropy(label_frequencies)
+    elif split == 'test':
         if write:
+            # Save predictions to a JSON file
             pname = args.meta_name
             pname = pname.split('.')[0] + "_predictions.json"
-            pred_dump = {'predictions': preds, 'answers': answer_list, 'ids':index_list}
+            pred_dump = {'predictions': preds, 'answers': answer_list, 'ids': index_list}
             ppath = os.path.join(args.meta_dir, pname)
-            pfile = open(ppath, 'w+')
-            json.dump(pred_dump, pfile)
-        return np.round(100*raw_acc_count/len(answer_list), 2)
-    else: return
+            with open(ppath, 'w') as pfile:
+                json.dump(pred_dump, pfile)
+        return np.round(100 * raw_acc_count / len(answer_list), 2)
+    else:
+        return
+
 
 def get_phrase_lookup(base_candidate):
     if args.level == 'phrase': phrase_lookup = {p:phrase for p, phrase in enumerate(get_phrases(base_candidate))}

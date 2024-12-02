@@ -1,1 +1,89 @@
-Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only, followed by a brief reason if 'Yes' . Is the following sentence a potentially unfair clause?
+Base Candidate:	 Is the following sentence a potentially unfair clause? Answer 'Yes' or 'No' only.
+Base Score:	 52.940116670092564
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 Is the following sentence ? Answer 'Yes' or 'No' only.
+Performing edit:	 swap
+Generated candidate:	 Is Answer 'Yes ' a potentially unfair clause? Answer 'Yes' or 'No' only.
+Performing edit:	 del
+Generated candidate:	 Is the following sentence a potentially unfair clause? Answer 'Yes' or 'No' .
+Performing edit:	 swap
+Generated candidate:	 Is the following sentence 'No? Answer 'Yes' or 'No' only.
+Performing edit:	 swap
+Generated candidate:	 Is the following sentence a potentially unfair clause? Answer 'Yes' or a potentially unfair clause' only.
+Score for Candidate 0:	 63.916698794013435
+Score for Candidate 1:	 61.4092499127271
+Score for Candidate 2:	 33.93929800252373
+Score for Candidate 3:	 60.8092499127271
+Score for Candidate 4:	 34.99011667009257
+
+New Candidate Found
+New Candidate Index:	 0
+New Candidate:	 Is the following sentence ? Answer 'Yes' or 'No' only.
+New Candidate Score:	 63.916698794013435
+New Candidate Edit:	 del
+
+Running step:	 1
+Performing edit:	 swap
+Generated candidate:	 Is the following sentence? Answer 'Yes' or 'No' 'No.
+Performing edit:	 sub
+Generated candidate:	 Is the following sentence? Answer 'Yes' or 'No' only.
+Performing edit:	 add
+Generated candidate:	 Is the following sentence? Answer 'Yes' or a potentially unfair clause 'No' only.
+Performing edit:	 add
+Generated candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' only.
+Performing edit:	 del
+Generated candidate:	  the following sentence? Answer 'Yes' or 'No' only.
+Score for Candidate 0:	 50.21079928086973
+Score for Candidate 1:	 45.287693717685876
+Score for Candidate 2:	 58.923469670899614
+Score for Candidate 3:	 87.98011667009257
+Score for Candidate 4:	 77.56011667009257
+
+New Candidate Found
+New Candidate Index:	 3
+New Candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' only.
+New Candidate Score:	 87.98011667009257
+New Candidate Edit:	 add
+
+Running step:	 2
+Performing edit:	 swap
+Generated candidate:	 a potentially unfair clause a potentially unfair clause? Answer 'Yes' or 'No' only.
+Performing edit:	 swap
+Generated candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' Is the following sentence.
+Performing edit:	 swap
+Generated candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' only.
+Performing edit:	 del
+Generated candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or ' only.
+Performing edit:	 sub
+Generated candidate:	 a potentially unfair clause Is the following sentence true?? Answer 'Yes' or 'No' only.
+Score for Candidate 0:	 44.39669879401343
+Score for Candidate 1:	 50.85929800252373
+Score for Candidate 2:	 60.11929800252373
+Score for Candidate 3:	 25.03929800252373
+Score for Candidate 4:	 79.77929800252373
+
+Running step:	 3
+Performing edit:	 swap
+Generated candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or Is the following sentence' only.
+Performing edit:	 swap
+Generated candidate:	 only Is the following sentence? Answer 'Yes' or 'No' only.
+Performing edit:	 swap
+Generated candidate:	 a potentially unfair clause only? Answer 'Yes' or 'No' only.
+Performing edit:	 swap
+Generated candidate:	 a potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' only.
+Performing edit:	 sub
+Generated candidate:	 A potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' only.
+Score for Candidate 0:	 47.42402423538188
+Score for Candidate 1:	 62.90769371768587
+Score for Candidate 2:	 55.01418194793702
+Score for Candidate 3:	 86.02929800252373
+Score for Candidate 4:	 55.83346967089961
+
+Ran out of patience 
+
+Testing .... 
+Instruction after search:	a potentially unfair clause Is the following sentence? Answer 'Yes' or 'No' only.
+Accuracy after search:	248.0
+Edit Operations:	del add
