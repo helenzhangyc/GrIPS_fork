@@ -103,10 +103,9 @@ def setup_gpt3(file='openai_key.txt'):
 #             time.sleep(1)
 #     return response
 
-def complete_gpt3(prompt, l, model_name, temp=0.7, num_log_probs=None, echo=False, n=1):
+def complete_gpt3(prompt, l, model_name, temp=0.0, num_log_probs=None, echo=False, n=1):
     if "gpt-3.5" in model_name or "gpt-4" in model_name:
-        # Adjust for chat-based models
-        messages = [{"role": "system", "content": "You are a helpful assistant."}]
+        messages = []
         for item in prompt:
             messages.append({"role": "user", "content": item})
         
