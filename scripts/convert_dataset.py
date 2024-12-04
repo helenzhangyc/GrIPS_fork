@@ -2,8 +2,8 @@ import pandas as pd
 import json
 
 # Load the train and test TSV files
-train_file_path = "../data/claudette_train_merged.tsv"
-test_file_path = "../data/claudette_test_merged.tsv"
+train_file_path = "../data/claudette_train_merged_without_pinc.tsv"
+test_file_path = "../data/claudette_test_merged_without_pinc.tsv"
 
 # Load training data
 df_train = pd.read_csv(train_file_path, sep="\t")
