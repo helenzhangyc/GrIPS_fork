@@ -1,0 +1,89 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Base Score:	 49.599441477341735
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You or . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 85.00402423538188
+Score for Candidate 1:	 66.73011667009257
+Score for Candidate 2:	 94.78769371768587
+Score for Candidate 3:	 81.51079928086973
+Score for Candidate 4:	 94.78769371768587
+
+New Candidate Found
+New Candidate Index:	 2
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+New Candidate Score:	 94.78769371768587
+New Candidate Edit:	 del
+
+Running step:	 1
+Performing edit:	 add
+Generated candidate:	 Does You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Does 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 94.78769371768587
+Score for Candidate 1:	 88.39669879401343
+Score for Candidate 2:	 100.0
+Score for Candidate 3:	 94.78769371768587
+Score for Candidate 4:	 42.534181947937014
+
+New Candidate Found
+New Candidate Index:	 2
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+New Candidate Score:	 100.0
+New Candidate Edit:	 del
+
+Running step:	 2
+Performing edit:	 sub
+Generated candidate:	 You They are experts in identifying potentially unfair clauses in service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 add
+Generated candidate:	 Does You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No'  . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' are an expert in identifying potentially unfair clauses in terms of service documents . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . Answer specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 50.85929800252373
+Score for Candidate 1:	 81.51079928086973
+Score for Candidate 2:	 62.85929800252373
+Score for Candidate 3:	 88.39669879401343
+Score for Candidate 4:	 97.67944147734173
+
+Running step:	 3
+Performing edit:	 del
+Generated candidate:	 You  . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents .  'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause this clause?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 91.6692499127271
+Score for Candidate 1:	 77.92953317447474
+Score for Candidate 2:	 50.85929800252373
+Score for Candidate 3:	 31.923469670899614
+Score for Candidate 4:	 88.39669879401343
+
+Ran out of patience 
+
+Testing .... 
+Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Accuracy after search:	312.0
+Edit Operations:	del del

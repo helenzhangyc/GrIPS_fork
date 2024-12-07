@@ -1,0 +1,66 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Base Score:	 91.6692499127271
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 swap
+Generated candidate:	 You or . Answer 'Yes' or 'No' only . Does this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Score for Candidate 0:	 81.51079928086973
+Score for Candidate 1:	 91.6692499127271
+Score for Candidate 2:	 77.92953317447474
+Score for Candidate 3:	 91.6692499127271
+Score for Candidate 4:	 100.0
+
+New Candidate Found
+New Candidate Index:	 4
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+New Candidate Score:	 100.0
+New Candidate Edit:	 swap
+
+Running step:	 1
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any  no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or is it? 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any Or is it? no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 del
+Generated candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 swap
+Generated candidate:	 You only . Answer 'Yes' or 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Score for Candidate 0:	 81.51079928086973
+Score for Candidate 1:	 66.73011667009257
+Score for Candidate 2:	 97.67944147734173
+Score for Candidate 3:	 81.51079928086973
+Score for Candidate 4:	 94.78769371768587
+
+Running step:	 2
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Either way, or 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any Either way, or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes'  indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause this clause?
+Score for Candidate 0:	 94.78769371768587
+Score for Candidate 1:	 77.92953317447474
+Score for Candidate 2:	 62.85929800252373
+Score for Candidate 3:	 100.0
+Score for Candidate 4:	 33.92953317447474
+
+Ran out of patience 
+
+Testing .... 
+Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause indicate conditions for content removal in the service provider's full discretion, and/or at any time for any or no reasons and/or without notice nor possibility to retrieve the content?
+Accuracy after search:	328.0
+Edit Operations:	swap

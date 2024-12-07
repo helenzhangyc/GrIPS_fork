@@ -1,0 +1,89 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Base Score:	 50.0
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You or . Answer 'Yes' or 'No' only . Does this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Score for Candidate 0:	 43.010799280869726
+Score for Candidate 1:	 47.14924991272709
+Score for Candidate 2:	 88.39669879401343
+Score for Candidate 3:	 50.0
+Score for Candidate 4:	 44.584024235381875
+
+New Candidate Found
+New Candidate Index:	 2
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause stipulate that duties to pay damages by the provider are limited or excluded?
+New Candidate Score:	 88.39669879401343
+New Candidate Edit:	 del
+
+Running step:	 1
+Performing edit:	 add
+Generated candidate:	 Does You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . this clause stipulate that duties to pay damages by the provider are limited  excluded?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Does 'No' only . this clause stipulate that duties to pay damages by the provider are limited or Does excluded?
+Score for Candidate 0:	 85.00402423538188
+Score for Candidate 1:	 100.0
+Score for Candidate 2:	 94.78769371768587
+Score for Candidate 3:	 31.923469670899614
+Score for Candidate 4:	 35.900116670092565
+
+New Candidate Found
+New Candidate Index:	 1
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+New Candidate Score:	 100.0
+New Candidate Edit:	 add
+
+Running step:	 2
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause The provider's duties to pay damages are limited or excluded?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause ?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . are an expert in identifying potentially unfair clauses in terms of service documents Does stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . stipulate that duties to pay damages by the provider are limited or excluded stipulate that duties to pay damages by the provider are limited or excluded?
+Score for Candidate 0:	 88.39669879401343
+Score for Candidate 1:	 70.53418194793701
+Score for Candidate 2:	 97.67944147734173
+Score for Candidate 3:	 97.67944147734173
+Score for Candidate 4:	 50.0
+
+Running step:	 3
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or stipulate that duties to pay damages by the provider are limited or excluded' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You only . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . This is a clause stipulate that duties to pay damages by the provider are limited or excluded?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' Or is it? 'No' only . this clause stipulate that duties to pay damages by the provider are limited Or is it? excluded?
+Score for Candidate 0:	 50.0
+Score for Candidate 1:	 81.51079928086973
+Score for Candidate 2:	 85.00402423538188
+Score for Candidate 3:	 81.51079928086973
+Score for Candidate 4:	 62.85929800252373
+
+Ran out of patience 
+
+Testing .... 
+Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause stipulate that duties to pay damages by the provider are limited or excluded?
+Accuracy after search:	296.0
+Edit Operations:	del add

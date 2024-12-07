@@ -1,0 +1,41 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Base Score:	 97.67944147734173
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Performing edit:	 swap
+Generated candidate:	 You or . Answer 'Yes' or 'No' only . Does this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Score for Candidate 0:	 91.6692499127271
+Score for Candidate 1:	 81.51079928086973
+Score for Candidate 2:	 94.78769371768587
+Score for Candidate 3:	 74.26869457572427
+Score for Candidate 4:	 74.26869457572427
+
+Running step:	 1
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Does this clause stipulate that the service provider may suspend  terminate the service at any time for any  no reasons and/or without notice?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or is it? 'No' only . Does this clause stipulate that the service provider may suspend Or is it? terminate the service at any time for any Or is it? no reasons and/or without notice?
+Performing edit:	 del
+Generated candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . or this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Performing edit:	 swap
+Generated candidate:	 You only . Answer 'Yes' or 'No' only . Does this clause stipulate that the service provider may suspend or terminate the service at any time for any or no reasons and/or without notice?
+Score for Candidate 0:	 85.00402423538188
+Score for Candidate 1:	 77.92953317447474
+Score for Candidate 2:	 85.00402423538188
+Score for Candidate 3:	 94.78769371768587
+Score for Candidate 4:	 85.00402423538188
+
+Ran out of patience 
+
+Testing .... 
+No viable candidate found!

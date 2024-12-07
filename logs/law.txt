@@ -1,0 +1,66 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Base Score:	 81.51079928086973
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 swap
+Generated candidate:	 You or . Answer 'Yes' or 'No' only . Does the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Score for Candidate 0:	 94.78769371768587
+Score for Candidate 1:	 85.00402423538188
+Score for Candidate 2:	 100.0
+Score for Candidate 3:	 94.78769371768587
+Score for Candidate 4:	 85.00402423538188
+
+New Candidate Found
+New Candidate Index:	 2
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+New Candidate Score:	 100.0
+New Candidate Edit:	 del
+
+Running step:	 1
+Performing edit:	 add
+Generated candidate:	 Does You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Does 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Score for Candidate 0:	 81.51079928086973
+Score for Candidate 1:	 94.78769371768587
+Score for Candidate 2:	 74.26869457572427
+Score for Candidate 3:	 48.617693717685874
+Score for Candidate 4:	 91.6692499127271
+
+Running step:	 2
+Performing edit:	 sub
+Generated candidate:	 You They are experts in identifying potentially unfair clauses in service documents . Answer 'Yes' or 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No Does' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . the clause ?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or are an expert in identifying potentially unfair clauses in terms of service documents' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Score for Candidate 0:	 91.6692499127271
+Score for Candidate 1:	 94.78769371768587
+Score for Candidate 2:	 29.510799280869726
+Score for Candidate 3:	 10.787693717685874
+Score for Candidate 4:	 50.0
+
+Ran out of patience 
+
+Testing .... 
+Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . the clause define the applicable law as different from the law of the consumer ’ s country of residence?
+Accuracy after search:	332.0
+Edit Operations:	del
