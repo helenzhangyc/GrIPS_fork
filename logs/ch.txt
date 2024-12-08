@@ -1,5 +1,5 @@
 Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Base Score:	 49.599441477341735
+Base Score:	 94.78769371768587
 
 Running step:	 0
 Performing edit:	 del
@@ -13,77 +13,187 @@ Generated candidate:	 You are an expert in identifying potentially unfair clause
 Performing edit:	 swap
 Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Score for Candidate 0:	 85.00402423538188
-Score for Candidate 1:	 66.73011667009257
-Score for Candidate 2:	 94.78769371768587
-Score for Candidate 3:	 81.51079928086973
-Score for Candidate 4:	 94.78769371768587
-
-New Candidate Found
-New Candidate Index:	 2
-New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only .  this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-New Candidate Score:	 94.78769371768587
-New Candidate Edit:	 del
+Score for Candidate 1:	 77.92953317447474
+Score for Candidate 2:	 50.0
+Score for Candidate 3:	 39.59869457572426
+Score for Candidate 4:	 91.6692499127271
 
 Running step:	 1
-Performing edit:	 add
-Generated candidate:	 Does You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Performing edit:	 add
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Does . Answer 'Yes' or 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 del
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 sub
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Performing edit:	 add
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Does 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Score for Candidate 0:	 94.78769371768587
-Score for Candidate 1:	 88.39669879401343
-Score for Candidate 2:	 100.0
-Score for Candidate 3:	 94.78769371768587
-Score for Candidate 4:	 42.534181947937014
-
-New Candidate Found
-New Candidate Index:	 2
-New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-New Candidate Score:	 100.0
-New Candidate Edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or is it? 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . or this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You only . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 70.53418194793701
+Score for Candidate 1:	 85.00402423538188
+Score for Candidate 2:	 49.599441477341735
+Score for Candidate 3:	 91.6692499127271
+Score for Candidate 4:	 88.39669879401343
 
 Running step:	 2
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 sub
-Generated candidate:	 You They are experts in identifying potentially unfair clauses in service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Performing edit:	 add
-Generated candidate:	 Does You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Either way, or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 del
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No'  . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does  specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 swap
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' are an expert in identifying potentially unfair clauses in terms of service documents . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Performing edit:	 swap
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . Answer specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause this clause?
 Score for Candidate 0:	 50.85929800252373
-Score for Candidate 1:	 81.51079928086973
-Score for Candidate 2:	 62.85929800252373
-Score for Candidate 3:	 88.39669879401343
-Score for Candidate 4:	 97.67944147734173
+Score for Candidate 1:	 85.00402423538188
+Score for Candidate 2:	 54.923469670899614
+Score for Candidate 3:	 94.78769371768587
+Score for Candidate 4:	 44.584024235381875
 
 Running step:	 3
 Performing edit:	 del
-Generated candidate:	 You  . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or It's not true' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 del
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents .  'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does  specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 50.85929800252373
+Score for Candidate 1:	 42.534181947937014
+Score for Candidate 2:	 29.510799280869726
+Score for Candidate 3:	 41.34953317447474
+Score for Candidate 4:	 81.51079928086973
+
+Running step:	 4
 Performing edit:	 swap
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause this clause?
-Performing edit:	 add
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Does' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does Does specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . specify conditions under which the service provider could amend and modify the terms of service and/or the service itself this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
 Performing edit:	 del
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Score for Candidate 0:	 91.6692499127271
-Score for Candidate 1:	 77.92953317447474
-Score for Candidate 2:	 50.85929800252373
-Score for Candidate 3:	 31.923469670899614
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does  specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 this clause are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 15.669249912727096
+Score for Candidate 1:	 85.00402423538188
+Score for Candidate 2:	 91.6692499127271
+Score for Candidate 3:	 66.73011667009257
+Score for Candidate 4:	 95.09079928086973
+
+New Candidate Found
+New Candidate Index:	 4
+New Candidate:	 this clause are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+New Candidate Score:	 95.09079928086973
+New Candidate Edit:	 swap
+
+Running step:	 5
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does This is a clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 swap
+Generated candidate:	 this clause are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' are an expert in identifying potentially unfair clauses in terms of service documents . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 81.51079928086973
+Score for Candidate 1:	 97.67944147734173
+Score for Candidate 2:	 91.6692499127271
+Score for Candidate 3:	 88.39669879401343
+Score for Candidate 4:	 44.584024235381875
+
+New Candidate Found
+New Candidate Index:	 1
+New Candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+New Candidate Score:	 97.67944147734173
+New Candidate Edit:	 swap
+
+Running step:	 6
+Performing edit:	 swap
+Generated candidate:	 this clause this clause . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause The service provider can modify the terms of service under certain conditions . Answer 'Yes' or 'No' only . Does this clause The service provider can modify the terms of service under certain conditions?
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause ?
+Performing edit:	 swap
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Is it? this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 97.67944147734173
+Score for Candidate 1:	 97.67944147734173
+Score for Candidate 2:	 25.004024235381877
+Score for Candidate 3:	 91.6692499127271
 Score for Candidate 4:	 88.39669879401343
 
-Ran out of patience 
+Running step:	 7
+Performing edit:	 swap
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' specify conditions under which the service provider could amend and modify the terms of service and/or the service itself 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes'  'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause ?
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause ?
+Performing edit:	 swap
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 49.599441477341735
+Score for Candidate 1:	 91.6692499127271
+Score for Candidate 2:	 50.85929800252373
+Score for Candidate 3:	 31.923469670899614
+Score for Candidate 4:	 85.00402423538188
+
+Running step:	 8
+Performing edit:	 swap
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause ?
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause ?
+Performing edit:	 swap
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does specify conditions under which the service provider could amend and modify the terms of service and/or the service itself specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' Only that is the only thing . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 100.0
+Score for Candidate 1:	 42.534181947937014
+Score for Candidate 2:	 66.73011667009257
+Score for Candidate 3:	 91.6692499127271
+Score for Candidate 4:	 49.599441477341735
+
+New Candidate Found
+New Candidate Index:	 0
+New Candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+New Candidate Score:	 100.0
+New Candidate Edit:	 swap
+
+Running step:	 9
+Performing edit:	 del
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No'  . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 del
+Generated candidate:	 this clause  . Answer 'Yes' or 'No' only . Does this clause ?
+Performing edit:	 del
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' Or something similar 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Performing edit:	 sub
+Generated candidate:	 this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does This clause is relevant specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Score for Candidate 0:	 46.06669879401343
+Score for Candidate 1:	 38.26869457572426
+Score for Candidate 2:	 100.0
+Score for Candidate 3:	 85.00402423538188
+Score for Candidate 4:	 91.6692499127271
+
 
 Testing .... 
-Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' 'No' only . this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
-Accuracy after search:	312.0
-Edit Operations:	del del
+Accuracy after search:	0.56
+Macro F1 after search:	0.358974358974359
+Precision after search:	0.5
+Recall after search:	0.28
+Instruction after search:	this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself . Answer 'Yes' or 'No' only . Does this clause specify conditions under which the service provider could amend and modify the terms of service and/or the service itself?
+Edit Operations:	swap swap swap

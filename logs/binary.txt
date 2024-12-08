@@ -1,5 +1,5 @@
 Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Base Score:	 60.52011667009256
+Base Score:	 37.218694575724264
 
 Running step:	 0
 Performing edit:	 del
@@ -12,158 +12,121 @@ Performing edit:	 swap
 Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
 Performing edit:	 swap
 Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' the following sentence a potentially unfair clause?
-Score for Candidate 0:	 50.78011667009256
-Score for Candidate 1:	 41.580116670092565
-Score for Candidate 2:	 49.50944147734173
-Score for Candidate 3:	 47.787693717685876
-Score for Candidate 4:	 38.70402423538188
-
-Running step:	 1
-Performing edit:	 del
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 sub
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or is it? 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 del
-Generated candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 swap
-Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . or the following sentence a potentially unfair clause?
-Performing edit:	 swap
-Generated candidate:	 You only . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Score for Candidate 0:	 50.0
-Score for Candidate 1:	 33.93929800252373
-Score for Candidate 2:	 62.85929800252373
-Score for Candidate 3:	 38.87869457572426
-Score for Candidate 4:	 55.01418194793702
-
-New Candidate Found
-New Candidate Index:	 2
-New Candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-New Candidate Score:	 62.85929800252373
-New Candidate Edit:	 del
-
-Running step:	 2
-Performing edit:	 swap
-Generated candidate:	 are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence are?
-Performing edit:	 sub
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 del
-Generated candidate:	 are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 del
-Generated candidate:	 are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 swap
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
 Score for Candidate 0:	 43.010799280869726
-Score for Candidate 1:	 71.30402423538187
-Score for Candidate 2:	 55.01418194793702
-Score for Candidate 3:	 53.59929800252373
-Score for Candidate 4:	 50.21079928086973
-
-New Candidate Found
-New Candidate Index:	 1
-New Candidate:	 are an expert There are potentially unfair clauses in service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-New Candidate Score:	 71.30402423538187
-New Candidate Edit:	 sub
-
-Running step:	 3
-Performing edit:	 del
-Generated candidate:	 are an expert There  potentially unfair clauses in service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents . Answer 'Yes' or 'No' only .  the following sentence a potentially unfair clause?
-Performing edit:	 sub
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents . Answer 'Yes' Or? 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 add
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 del
-Generated candidate:	 are an expert There  potentially unfair clauses in service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Score for Candidate 0:	 71.30402423538187
-Score for Candidate 1:	 53.59929800252373
-Score for Candidate 2:	 55.01418194793702
-Score for Candidate 3:	 81.92346967089962
-Score for Candidate 4:	 59.75669879401343
+Score for Candidate 1:	 41.870799280869726
+Score for Candidate 2:	 40.019533174474745
+Score for Candidate 3:	 67.88953317447475
+Score for Candidate 4:	 52.89953317447474
 
 New Candidate Found
 New Candidate Index:	 3
-New Candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-New Candidate Score:	 81.92346967089962
-New Candidate Edit:	 add
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
+New Candidate Score:	 67.88953317447475
+New Candidate Edit:	 swap
 
-Running step:	 4
-Performing edit:	 swap
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents only . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 swap
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence Is?
-Performing edit:	 swap
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' Answer 'Yes ' . Is the following sentence a potentially unfair clause?
+Running step:	 1
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes '?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents Answer 'Yes ' . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
 Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents  . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 swap
-Generated candidate:	 are in service documents There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Score for Candidate 0:	 47.14924991272709
-Score for Candidate 1:	 62.16011667009256
-Score for Candidate 2:	 74.27011667009258
-Score for Candidate 3:	 20.848694575724263
-Score for Candidate 4:	 44.13402423538188
-
-Running step:	 5
-Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes'  'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence ?
-Performing edit:	 del
-Generated candidate:	 are an expert  are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 swap
-Generated candidate:	 are potentially unfair clauses There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Is the following sentence a potentially unfair clause?
 Performing edit:	 sub
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' or 'No' only . Is The following is a sentence a potentially unfair clause?
-Score for Candidate 0:	 95.09079928086973
-Score for Candidate 1:	 66.36402423538188
-Score for Candidate 2:	 60.52011667009256
-Score for Candidate 3:	 41.580116670092565
-Score for Candidate 4:	 62.16011667009256
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Either way, or 'No' only . Is the following sentence a potentially unfair clause?
+Performing edit:	 add
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence Answer 'Yes ' a potentially unfair clause?
+Score for Candidate 0:	 69.02953317447475
+Score for Candidate 1:	 28.663469670899612
+Score for Candidate 2:	 57.02869457572426
+Score for Candidate 3:	 66.73011667009257
+Score for Candidate 4:	 46.313469670899615
 
 New Candidate Found
 New Candidate Index:	 0
-New Candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes'  'No' only . Is the following sentence a potentially unfair clause?
-New Candidate Score:	 95.09079928086973
-New Candidate Edit:	 del
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes '?
+New Candidate Score:	 69.02953317447475
+New Candidate Edit:	 add
 
-Running step:	 6
+Running step:	 2
 Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents  . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 add
-Generated candidate:	 or are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
 Performing edit:	 swap
-Generated candidate:	 are an expert There There potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
-Performing edit:	 add
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents or You . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Answer 'Yes ' 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 swap
+Generated candidate:	 only are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
 Performing edit:	 del
-Generated candidate:	 are an expert There  potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
-Score for Candidate 0:	 67.17769371768587
-Score for Candidate 1:	 89.86418194793701
-Score for Candidate 2:	 29.843469670899616
-Score for Candidate 3:	 46.06669879401343
-Score for Candidate 4:	 61.65079928086973
+Generated candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Score for Candidate 0:	 53.75944147734173
+Score for Candidate 1:	 36.568694575724265
+Score for Candidate 2:	 36.568694575724265
+Score for Candidate 3:	 27.689298002523728
+Score for Candidate 4:	 61.923469670899614
 
-Running step:	 7
+Running step:	 3
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'Not at all.'' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
 Performing edit:	 swap
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is the following sentence are?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
 Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is  a potentially unfair clause?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Score for Candidate 0:	 23.20418194793702
+Score for Candidate 1:	 47.419249912727096
+Score for Candidate 2:	 10.787693717685874
+Score for Candidate 3:	 63.08418194793701
+Score for Candidate 4:	 89.86418194793701
+
+New Candidate Found
+New Candidate Index:	 4
+New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+New Candidate Score:	 89.86418194793701
+New Candidate Edit:	 sub
+
+Running step:	 4
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is Is a potentially unfair clause Answer 'Yes'?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is The following sentence is spoken a potentially unfair clause Answer 'Yes'?
 Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents  . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Score for Candidate 0:	 43.96953317447475
+Score for Candidate 1:	 51.300116670092564
+Score for Candidate 2:	 78.47011667009257
+Score for Candidate 3:	 46.849249912727096
+Score for Candidate 4:	 77.56011667009257
+
+Running step:	 5
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No, not at all.'' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
 Performing edit:	 del
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' 'No'  . Is the following sentence a potentially unfair clause?
-Performing edit:	 add
-Generated candidate:	 are an expert or There are potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
-Score for Candidate 0:	 39.423469670899614
-Score for Candidate 1:	 57.71953317447475
-Score for Candidate 2:	 45.30669879401343
-Score for Candidate 3:	 66.85929800252373
-Score for Candidate 4:	 64.14418194793701
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence  Answer 'Yes'?
+Performing edit:	 swap
+Generated candidate:	 You only . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence The clause is potentially unfair Answer 'Yes'?
+Score for Candidate 0:	 51.923469670899614
+Score for Candidate 1:	 38.08869457572426
+Score for Candidate 2:	 54.923469670899614
+Score for Candidate 3:	 77.56011667009257
+Score for Candidate 4:	 87.98011667009257
 
 Ran out of patience 
 
 Testing .... 
-Instruction after search:	are an expert There are potentially unfair clauses in service documents You . Answer 'Yes' 'No' only . Is the following sentence a potentially unfair clause?
-Accuracy after search:	264.0
-Edit Operations:	del sub add del
+Accuracy after search:	0.6
+Macro F1 after search:	0.375
+Precision after search:	0.5
+Recall after search:	0.3
+Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Or 'No' only . Is the following sentence a potentially unfair clause Answer 'Yes'?
+Edit Operations:	swap add sub

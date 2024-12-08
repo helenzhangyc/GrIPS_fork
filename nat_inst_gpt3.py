@@ -517,10 +517,10 @@ if __name__ == "__main__":
     gpt3_model_name = args.model_name
     key = 0
 
-    classification_task_ids = ['019', '021',
-                               '022', '050', '069', '137', '139', '195']
+    classification_task_ids = ['000']
     data_base_path = "data/ExpandedNaturalInstructions/"
     file_map = {f.split("_")[0]: f for f in os.listdir(data_base_path)}
+    file_map['task000'] = 'converted_data.json'
     assert args.task_idx >= 0 and args.task_idx < len(
         classification_task_ids), "Invalid task index entered."
     chosen_task = classification_task_ids[args.task_idx]

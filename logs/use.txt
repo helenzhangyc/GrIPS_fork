@@ -1,5 +1,5 @@
 Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Base Score:	 81.51079928086973
+Base Score:	 66.73011667009257
 
 Running step:	 0
 Performing edit:	 del
@@ -12,16 +12,16 @@ Performing edit:	 swap
 Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 swap
 Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Score for Candidate 0:	 77.92953317447474
-Score for Candidate 1:	 58.923469670899614
-Score for Candidate 2:	 70.53418194793701
-Score for Candidate 3:	 88.39669879401343
-Score for Candidate 4:	 91.6692499127271
+Score for Candidate 0:	 70.53418194793701
+Score for Candidate 1:	 85.00402423538188
+Score for Candidate 2:	 74.26869457572427
+Score for Candidate 3:	 91.6692499127271
+Score for Candidate 4:	 100.0
 
 New Candidate Found
 New Candidate Index:	 4
 New Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes ' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-New Candidate Score:	 91.6692499127271
+New Candidate Score:	 100.0
 New Candidate Edit:	 swap
 
 Running step:	 1
@@ -35,78 +35,86 @@ Performing edit:	 swap
 Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 swap
 Generated candidate:	 You only . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Score for Candidate 0:	 58.923469670899614
-Score for Candidate 1:	 42.534181947937014
-Score for Candidate 2:	 97.67944147734173
-Score for Candidate 3:	 62.85929800252373
-Score for Candidate 4:	 91.6692499127271
-
-New Candidate Found
-New Candidate Index:	 2
-New Candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-New Candidate Score:	 97.67944147734173
-New Candidate Edit:	 del
+Score for Candidate 0:	 97.67944147734173
+Score for Candidate 1:	 66.73011667009257
+Score for Candidate 2:	 62.85929800252373
+Score for Candidate 3:	 88.39669879401343
+Score for Candidate 4:	 97.67944147734173
 
 Running step:	 2
 Performing edit:	 swap
-Generated candidate:	 are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause are?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 sub
-Generated candidate:	 are an expert There are potentially unfair clauses in service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' Either way, or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he Either way, or she has read and accepted them?
 Performing edit:	 del
-Generated candidate:	 are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes'  stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 del
-Generated candidate:	 are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 swap
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Score for Candidate 0:	 88.39669879401343
-Score for Candidate 1:	 85.00402423538188
-Score for Candidate 2:	 62.85929800252373
-Score for Candidate 3:	 5.679441477341729
-Score for Candidate 4:	 100.0
-
-New Candidate Found
-New Candidate Index:	 4
-New Candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-New Candidate Score:	 100.0
-New Candidate Edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause this clause?
+Score for Candidate 0:	 97.67944147734173
+Score for Candidate 1:	 29.510799280869726
+Score for Candidate 2:	 97.67944147734173
+Score for Candidate 3:	 97.67944147734173
+Score for Candidate 4:	 88.39669879401343
 
 Running step:	 3
 Performing edit:	 del
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Performing edit:	 del
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 sub
-Generated candidate:	 are an expert an expert . Answer 'Yes' or I don't think so' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Performing edit:	 add
-Generated candidate:	 areYou an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or It's not true' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 del
-Generated candidate:	 are   . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Score for Candidate 0:	 100.0
-Score for Candidate 1:	 91.6692499127271
-Score for Candidate 2:	 42.534181947937014
-Score for Candidate 3:	 100.0
-Score for Candidate 4:	 54.923469670899614
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he  she has read and accepted them?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes'  stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Score for Candidate 0:	 33.92953317447474
+Score for Candidate 1:	 66.73011667009257
+Score for Candidate 2:	 5.679441477341729
+Score for Candidate 3:	 91.6692499127271
+Score for Candidate 4:	 100.0
 
 Running step:	 4
 Performing edit:	 swap
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause Answer 'Yes '?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Answer 'Yes '' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 swap
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' or . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Performing edit:	 add
-Generated candidate:	 You are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' Answer 'Yes ' stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
 Performing edit:	 del
-Generated candidate:	 are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Performing edit:	 add
-Generated candidate:	 are an expert You an expert You . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Score for Candidate 0:	 100.0
-Score for Candidate 1:	 54.923469670899614
-Score for Candidate 2:	 94.78769371768587
-Score for Candidate 3:	 100.0
-Score for Candidate 4:	 91.6692499127271
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes'  stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 swap
+Generated candidate:	 this clause are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Score for Candidate 0:	 0.0
+Score for Candidate 1:	 35.900116670092565
+Score for Candidate 2:	 91.6692499127271
+Score for Candidate 3:	 20.39669879401343
+Score for Candidate 4:	 94.78769371768587
+
+Running step:	 5
+Performing edit:	 del
+Generated candidate:	 You  . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 swap
+Generated candidate:	 You stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Score for Candidate 0:	 97.67944147734173
+Score for Candidate 1:	 94.78769371768587
+Score for Candidate 2:	 97.67944147734173
+Score for Candidate 3:	 88.39669879401343
+Score for Candidate 4:	 81.51079928086973
 
 Ran out of patience 
 
 Testing .... 
-Instruction after search:	are an expert an expert . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
-Accuracy after search:	340.0
-Edit Operations:	swap del swap
+Accuracy after search:	0.32
+Macro F1 after search:	0.24242424242424243
+Precision after search:	0.5
+Recall after search:	0.16
+Instruction after search:	You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Answer 'Yes' this clause stipulate that the consumer is bound by the terms of use of a specific service, simply by using the service, without even being required to mark that he or she has read and accepted them?
+Edit Operations:	swap

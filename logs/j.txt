@@ -1,0 +1,92 @@
+Base Candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Base Score:	 100.0
+
+Running step:	 0
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does  state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Answer 'Yes '' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Does' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Score for Candidate 0:	 100.0
+Score for Candidate 1:	 70.53418194793701
+Score for Candidate 2:	 94.78769371768587
+Score for Candidate 3:	 0.0
+Score for Candidate 4:	 62.85929800252373
+
+Running step:	 1
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, )?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . are an expert in identifying potentially unfair clauses in terms of service documents, different country)?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause Answer 'Yes ' . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 only are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 del
+Generated candidate:	  are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Score for Candidate 0:	 100.0
+Score for Candidate 1:	 100.0
+Score for Candidate 2:	 70.53418194793701
+Score for Candidate 3:	 88.39669879401343
+Score for Candidate 4:	 100.0
+
+Running step:	 2
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'Not at all.'' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 You this clause . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or ' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or Answer 'Yes '' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' Only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Score for Candidate 0:	 54.923469670899614
+Score for Candidate 1:	 94.78769371768587
+Score for Candidate 2:	 5.679441477341729
+Score for Candidate 3:	 0.0
+Score for Candidate 4:	 91.6692499127271
+
+Running step:	 3
+Performing edit:	 swap
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . 'No this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, It's different country)?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . It's in a different city, different country)?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes'  'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Score for Candidate 0:	 50.85929800252373
+Score for Candidate 1:	 100.0
+Score for Candidate 2:	 100.0
+Score for Candidate 3:	 94.78769371768587
+Score for Candidate 4:	 100.0
+
+Running step:	 4
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 sub
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No, not at all.'' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Performing edit:	 del
+Generated candidate:	 You are an expert in identifying potentially unfair clauses in terms of service documents . Answer 'Yes' or 'No' only . Does this clause  . in a different city, different country)?
+Performing edit:	 swap
+Generated candidate:	 You only . Answer 'Yes' or 'No' only . Does this clause state that any judicial proceeding is to be conducted in a place other than the consumer's residence (i.e . in a different city, different country)?
+Score for Candidate 0:	 100.0
+Score for Candidate 1:	 100.0
+Score for Candidate 2:	 91.6692499127271
+Score for Candidate 3:	 100.0
+Score for Candidate 4:	 88.39669879401343
+
+Ran out of patience 
+
+Testing .... 
+No viable candidate found!
